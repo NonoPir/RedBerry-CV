@@ -1,0 +1,56 @@
+@import url('https://fonts.cdnfonts.com/css/helvetica-neue-9');
+body{
+    width: 1920px;
+    height: 1080px;
+    margin: 0%;
+    display: flex;
+    background-image: url(./img/shutterstock_2189773743\ 1.png);
+    font-family: 'Helvetica Neue', sans-serif;
+}
+.button{
+    width: 1920px;
+    height: 1080px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+}
+.button a{
+    width: 464px;
+    height: 60px;
+    background: #1A1A1A;
+    border-radius: 8px;
+    color: white;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    position: absolute;
+    cursor: pointer;
+}
+.button button{
+    width: 464px;
+    height: 60px;
+    background: #1A1A1A;
+    border-radius: 8px;
+    color: white;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    position: absolute;
+    cursor: pointer;
+}
+.logo{
+    margin-left:70px;
+    margin-top:25px;
+    border-bottom: solid black;
+    height: 64px;
+    border-width:1px;
+    width: 1780px;
+    position: absolute;
+}
+.logo img{
+    width: 236px;
+    height: 38px;
+}

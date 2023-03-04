@@ -1,0 +1,218 @@
+*{
+    margin:0px
+}
+.box{
+    height: 1263px;
+    width: 1920px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}
+.secondary{
+    height: 1080px;
+    width: 822px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    border: solid;
+    margin-left: 501px;
+    margin-top: 54px;
+    border-width: 1px;
+}
+.name2{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin-left: 80px;
+    margin-top: 68px;
+}
+
+.name2 h1{
+    background-color: white;
+    color: #F93B1D;
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 42px;
+}
+.icon{
+    margin-left: 82.67px;
+    margin-top: 20.67px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}
+.icon p{
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    margin-left: 11.67px;
+    background: white;
+}
+.icon img{
+    background-color: white;
+    height: 16px;
+    width: 16px;
+}
+.icon2{
+    margin-left: 82.67px;
+    margin-top: 10px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}
+.icon2 p{
+    margin-left: 11.81px;
+    background-color: white;
+}
+.icon2 img{
+    background-color: white;
+    width: 16px;
+    height: 16px;
+}
+.about{
+    margin-left: 80px;
+    margin-top: 34px;
+    width: 432px;
+    background-color: white;
+}
+.about h3{
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #F93B1D;
+    background-color: white;
+}
+.about p{
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    background: white;
+    margin-top: 15px;
+}
+.gamocdileba{
+    margin-left: 80px;
+    margin-top: 43px;
+    width: 432px;
+    background-color: white;
+    height: 200px;
+}
+.gamocdileba h3{
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #F93B1D;
+    background-color: white;
+}
+.gamocdileba h4{
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    background: white;
+    margin-top: 15px;
+    
+}
+
+.education{
+    margin-left: 80px;
+    margin-top: 26px;
+    width: 432px;
+    background-color: white;
+    height: 200px;
+}
+.education h3{
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #F93B1D;
+    background-color: white;
+}
+.education h4{
+    font-family: 'Helvetica Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    background: white;
+    margin-top: 15px;
+    
+}
+.border1{
+    width: 672px;
+    margin-top: 19px;
+    height:1px;
+    background:#C8C8C8;
+    position: absolute;
+}
+.para{
+    border-bottom: solid;
+    height: 98px;
+    border-width: 1px;
+    border-color: #C8C8C8;
+    margin-bottom: 0px;
+}
+.resume{
+    width: 427px;
+    height: 167px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 53px;
+    margin-left:52px;
+    box-shadow: 0px 4px 28px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+}
+.x{
+    display: flex;
+    width: 427px;
+    height: 34px;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.x img{
+    margin-right: 11.5px;
+}
+.suc h2{
+    font-family: Helvetica Neue;
+    font-size: 28px;
+    line-height: 43px;
+    letter-spacing: 0em;
+    margin-left: 30px;
+}
+.arrow{
+    margin-top:45px;
+    margin-left: 48px;
+}
+
+
+
+
+
+
+
+.text{
+    background-color: white;
+}
+.pic{
+    background-color: white;
+    
+}
+.pic img{
+    background-color: white;
+    margin-top: 48px;
+}
+.about img{
+    margin-top: 672px;
+    background-color: white;
+}
